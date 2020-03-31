@@ -1,0 +1,483 @@
+/**********************************
+
+	Iran-sans collection
+
+
+***********************************/
+@font-face {
+  font-family: iran_200;
+  font-style: normal;
+  font-weight: 200;
+  src: url('../myfontsIRANSansWeb_UltraLight.eot');
+  src: url('../myfonts/IRANSansWeb_UltraLight.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+     url('../myfonts/IRANSansWeb_UltraLight.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+     url('../myfonts/IRANSansWeb_UltraLight.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('../myfonts/IRANSansWeb_UltraLight.ttf') format('truetype');
+}
+.iran_200{
+  font-family: iran_200;
+}
+
+
+
+@font-face {
+  font-family: iran_300;
+  font-style: normal;
+  font-weight: 300;
+  src: url('../myfonts/IRANSansWeb_Light.eot');
+  src: url('../myfonts/IRANSansWeb_Light.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+     url('../myfonts/IRANSansWeb_Light.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+     url('../myfonts/IRANSansWeb_Light.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('../myfonts/IRANSansWeb_Light.ttf') format('truetype');
+}
+.iran_300{
+  font-family: iran_300;
+}
+
+
+
+
+@font-face {
+  font-family: iran_normal;
+  font-style: normal;
+  font-weight: bold;
+  src: url('../myfonts/IRANSansWeb.eot');
+  src: url('../myfonts/IRANSansWeb.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+     url('../myfonts/IRANSansWeb.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+     url('../myfonts/IRANSansWeb.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('../myfonts/IRANSansWeb.ttf') format('truetype');
+}
+.iran{
+  font-family: iran_normal;
+}
+
+
+
+
+
+@font-face {
+  font-family: iran_med;
+  font-style: normal;
+  font-weight: 200;
+  src: url('../myfonts/IRANSansWeb_Medium.eot');
+  src: url('../myfonts/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+     url('../myfonts/IRANSansWeb_Medium.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+     url('../myfonts/IRANSansWeb_Medium.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('../myfonts/IRANSansWeb_Medium.ttf') format('truetype');
+}
+.iran_med{
+  font-family: iran_med;
+}
+
+
+
+
+@font-face {
+  font-family: iran_bold;
+  font-style: normal;
+  font-weight: 200;
+  src: url('../myfonts/IRANSansWeb_Bold.eot');
+  src: url('../myfonts/IRANSansWeb_Bold.eot?#iefix') format('embedded-opentype'),  /* IE6-8 */
+     url('../myfonts/IRANSansWeb_Bold.woff2') format('woff2'),  /* FF39+,Chrome36+, Opera24+*/
+     url('../myfonts/IRANSansWeb_Bold.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+     url('../myfonts/IRANSansWeb_Bold.ttf') format('truetype');
+}
+.iran_bold{
+  font-family: iran_bold;
+}
+
+
+
+
+
+
+
+
+
+/******************************
+
+
+		::other font
+
+******************************/
+@font-face{
+    font-family: 'Badr';
+    src: url('../myfonts/BBadr.eot') format('eot'),
+      url('../myfonts/BBadr.woff') format('woff'),
+      url('../myfonts/BBadr.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face{
+    font-family: 'BBaran';
+    src: url('../myfonts/BBaran.eot') format('eot'),
+      url('../myfonts/BBaran.woff') format('woff'),
+      url('../myfonts/BBaran.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)********************************************/
+
+@font-face{
+    font-family: 'BBardiya';
+    src: url('../myfonts/BBardiya.eot') format('eot'),
+      url('../myfonts/BBardiya.woff') format('woff'),
+      url('../myfonts/BBardiya.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+/*)********************************************/
+
+@font-face{
+    font-family: 'BCompset';
+    src: url('../myfonts/BCompset.eot') format('eot'),
+      url('../myfonts/BCompset.woff') format('woff'),
+      url('../myfonts/BCompset.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)********************************************/
+@font-face{
+    font-family: 'BDavat';
+    src: url('../myfonts/BDavat.eot') format('eot'),
+      url('../myfonts/BDavat.woff') format('woff'),
+      url('../myfonts/BDavat.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)********************************************/
+@font-face{
+    font-family: 'BElham';
+    src: url('../myfonts/BElham.eot') format('eot'),
+      url('../myfonts/BElham.woff') format('woff'),
+      url('../myfonts/BElham.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+/*)********************************************/
+@font-face{
+    font-family: 'BEsfehanBold';
+    src: url('../myfonts/BEsfehanBold.eot') format('eot'),
+      url('../myfonts/BEsfehanBold.woff') format('woff'),
+      url('../myfonts/BElhBEsfehanBoldam.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+/*)********************************************/
+@font-face{
+    font-family: 'BFantezy';
+    src: url('../myfonts/BFantezy.eot') format('eot'),
+      url('../myfonts/BFantezy.woff') format('woff'),
+      url('../myfonts/BFantezy.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+/*)********************************************/
+@font-face{
+    font-family: 'BFerdosi';
+    src: url('../myfonts/BFerdosi.eot') format('eot'),
+      url('../myfonts/BFerdosi.woff') format('woff'),
+      url('../myfonts/BFarnaz.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BHamid';
+    src: url('../myfonts/BHamid.eot') format('eot'),
+      url('../myfonts/BHamid.woff') format('woff'),
+      url('../myfonts/BHamid.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BHelal';
+    src: url('../myfonts/BHelal.eot') format('eot'),
+      url('../myfonts/BHelal.woff') format('woff'),
+      url('../myfonts/BHelal.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BHoma';
+    src: url('../myfonts/BHoma.eot') format('eot'),
+      url('../myfonts/BHoma.woff') format('woff'),
+      url('../myfonts/BHoma.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)***************************************************************/
+@font-face{
+    font-family: 'BJadidBold';
+    src: url('../myfonts/BJadidBold.eot') format('eot'),
+      url('../myfonts/BJadidBold.woff') format('woff'),
+      url('../myfonts/BJadidBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)***************************************************************/
+@font-face{
+    font-family: 'BJalal';
+    src: url('../myfonts/BJalal.eot') format('eot'),
+      url('../myfonts/BJalal.woff') format('woff'),
+      url('../myfonts/BJalal.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)*************************************************************/
+@font-face{
+    font-family: 'BKoodakBold';
+    src: url('../myfonts/BKoodakBold.eot') format('eot'),
+      url('../myfonts/BKoodakBold.woff') format('woff'),
+      url('../myfonts/BKoodakBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BLotus';
+    src: url('../myfonts/BLotus.eot') format('eot'),
+      url('../myfonts/BLotus.woff') format('woff'),
+      url('../myfonts/BLotus.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BMahsa';
+    src: url('../myfonts/BMahsa.eot') format('eot'),
+      url('../myfonts/BMahsa.woff') format('woff'),
+      url('../myfonts/BMahsa.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BMehrBold';
+    src: url('../myfonts/BMehrBold.eot') format('eot'),
+      url('../myfonts/BMehrBold.woff') format('woff'),
+      url('../myfonts/BMehrBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)*************************************************************/
+@font-face{
+    font-family: 'BMitra';
+    src: url('../myfonts/BMitra.eot') format('eot'),
+      url('../myfonts/BMitra.woff') format('woff'),
+      url('../myfonts/BMitra.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BMorvarid';
+    src: url('../myfonts/BMorvarid.eot') format('eot'),
+      url('../myfonts/BMorvarid.woff') format('woff'),
+      url('../myfonts/BMorvarid.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BNarm';
+    src: url('../myfonts/BNarm.eot') format('eot'),
+      url('../myfonts/BNarm.woff') format('woff'),
+      url('../myfonts/BNarm.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BNasimBold';
+    src: url('../myfonts/BNasimBold.eot') format('eot'),
+      url('../myfonts/BNasimBold.woff') format('woff'),
+      url('../myfonts/BNasimBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)***************************************************************/
+@font-face{
+    font-family: 'BNazanin';
+    src: url('../myfonts/BNazanin.eot') format('eot'),
+      url('../myfonts/BNazanin.woff') format('woff'),
+      url('../myfonts/BNazanin.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**********************************************************/
+@font-face{
+    font-family: 'BRoya';
+    src: url('../myfonts/BRoya.eot') format('eot'),
+      url('../myfonts/BRoya.woff') format('woff'),
+      url('../myfonts/BRoya.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)************************************************************/
+@font-face{
+    font-family: 'BSetarehBold';
+    src: url('../myfonts/BSetarehBold.eot') format('eot'),
+      url('../myfonts/BSetarehBold.woff') format('woff'),
+      url('../myfonts/BSetarehBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)*************************************************************/
+@font-face{
+    font-family: 'BShiraz';
+    src: url('../myfonts/BShiraz.eot') format('eot'),
+      url('../myfonts/BShiraz.woff') format('woff'),
+      url('../myfonts/BShiraz.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**********************************************************/
+@font-face{
+    font-family: 'BSinaBold';
+    src: url('../myfonts/BSinaBold.eot') format('eot'),
+      url('../myfonts/BSinaBold.woff') format('woff'),
+      url('../myfonts/BSinaBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)*************************************************************/
+@font-face{
+    font-family: 'BTabassom';
+    src: url('../myfonts/BTabassom.eot') format('eot'),
+      url('../myfonts/BTabassom.woff') format('woff'),
+      url('../myfonts/BTabassom.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)********************************************************/
+@font-face{
+    font-family: 'BTehran';
+    src: url('../myfonts/BTehran.eot') format('eot'),
+      url('../myfonts/BTehran.woff') format('woff'),
+      url('../myfonts/BTehran.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)*********************************************************/
+@font-face{
+    font-family: 'BTitrBold';
+    src: url('../myfonts/BTitrBold.eot') format('eot'),
+      url('../myfonts/BTitrBold.woff') format('woff'),
+      url('../myfonts/BTitrBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)****************************************************************/
+@font-face{
+    font-family: 'BTitrTGEBold';
+    src: url('../myfonts/BTitrTGEBold.eot') format('eot'),
+      url('../myfonts/BTitrTGEBold.woff') format('woff'),
+      url('../myfonts/BTitrTGEBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)**************************************************************/
+@font-face{
+    font-family: 'BTraffic';
+    src: url('../myfonts/BTraffic.eot') format('eot'),
+      url('../myfonts/BTraffic.woff') format('woff'),
+      url('../myfonts/BTraffic.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+.traffic1{
+    font-family:'BTraffic';
+    font-weight: normal;
+}
+/*)**************************************************************/
+@font-face{
+    font-family: 'BVahidBold';
+    src: url('../myfonts/BVahidBold.eot') format('eot'),
+      url('../myfonts/BVahidBold.woff') format('woff'),
+      url('../myfonts/BVahidBold.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)*************************************************************/
+@font-face{
+    font-family: 'BYagut';
+    src: url('../myfonts/BYagut.eot') format('eot'),
+      url('../myfonts/BYagut.woff') format('woff'),
+      url('../myfonts/BYagut.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)***************************************************************/
+@font-face{
+    font-family: 'BYas';
+    src: url('../myfonts/BYas.eot') format('eot'),
+      url('../myfonts/BYas.woff') format('woff'),
+      url('../myfonts/BYas.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)***********************************************************/
+@font-face{
+    font-family: 'BYekan';
+    src: url('../myfonts/BYekan.eot') format('eot'),
+      url('../myfonts/BYekan.woff') format('woff'),
+      url('../myfonts/BYekan.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)************************************************************/
+@font-face{
+    font-family: 'BZar';
+    src: url('../myfonts/BZar.eot') format('eot'),
+      url('../myfonts/BZar.woff') format('woff'),
+      url('../myfonts/BZar.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+/*)************************************************************/
+@font-face{
+    font-family: 'BZiba';
+    src: url('../myfonts/BZiba.eot') format('eot'),
+      url('../myfonts/BZiba.woff') format('woff'),
+      url('../myfonts/BZiba.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
+
